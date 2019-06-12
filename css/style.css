@@ -134,8 +134,9 @@
 }
 .servis_container {
   width: 1200px;
+  padding: 0;
   margin: 0 auto;
-  margin-top: 175px;
+  margin-top: 110px;
 }
           
 .servis_list li {
@@ -324,6 +325,7 @@
 }
           
 .footer_box {
+  /* padding-top: 110px; */
   padding-top: 110px;
   padding-bottom: 30px; 
 }
